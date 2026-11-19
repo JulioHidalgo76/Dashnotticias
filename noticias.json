@@ -1,11 +1,38 @@
 {
-  "generated_at": "2026-11-19T03:58:21.374907Z",
+  "generated_at": "2026-11-19T04:13:30.007874Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 105,
+  "new_articles": 110,
   "errors": [],
   "articles": [
+    {
+      "id": "50feadb4ca12ac3587753c23",
+      "title": "Dow Jones Futures Rise: Anthropic IPO To Debut After Pricing High; Palo Alto And Everpure Rally On Earnings",
+      "url": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%3A.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T03:59:36Z",
+      "collected_at": "2026-11-19T04:13:30.007874Z"
+    },
+    {
+      "id": "78d13c5ed904460dac0c89de",
+      "title": "Peso tiene su peor caída intradía frente al dólar en 19 meses - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWl4WDhmQnZzdVBhMy1GNm8yUEJqNWJyazhsQTJQMXBfUEdEMWZCUVJlU0ZZY1VBYXl6elA5NElKcEEtOUNPWWtzV2hzMk9wUXBvb1BuRlRDNVB6dFpkY0RsR0pnLVBGcFZXUkJBM08zbVI2RG1KX1dSeVZaMHVnTkNlSnhjazNLMTc2Z1dsMWRHTkNNZndYWVh3cHpSWFN2Uzc0RGJvYUtsaDZr0gGyAUFVX3lxTE1VQy1XT01PN1B2Z0V6NHcwdGZ1djByUXp0b002SHo4dEw5TzQ5eE5vUlZVRm14emJYRFloWnkwNEwycEdhcDBKTnZVV0FDMFNmNVJ5b3BuR1pXRElKYUxBRl96WUxMY2JfU0NjeHppMFNRaF8xU0xFMW5tWUlETk1QTXgwd2kzUTlWdzlORmF0WTFmS2NXRjRFaXBNRVQtcDd2Vk9RYjFrM0VWdHN0M1puMmc?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T03:56:40Z",
+      "collected_at": "2026-11-19T04:13:30.007874Z"
+    },
+    {
+      "id": "cfca51b77a22e790bce0a3ee",
+      "title": "La BMV trasciende - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNakRqRUJRLUtOU2E2OHNyS0F3cWM3YzA5WkNkQlRjd04yUjFTQlNjUzI1QkFuandud1RuRnpGTXNFOXRfTkhUal9JSGF2cEVyWGJoa0xJLWk1eTF2dUZWNkVjazBudlhGenBxd0pyVkhOT243LWI2c25LUDZxa3ZSbWl30gGHAUFVX3lxTE1JTnVFbFlkSmwxbl9YMlR1NzhFa19jLU9IWkpkdXNQajB4clBpbklhaGVvYi1MVmJERlY0SlUxYXdpejZsWjduWjdIa0FIbDBaUDlkdlJWN3pOajhNRXM0aG5XWDJCaV9ZemxsQmFHMi1RRWFWOGpEODJUd0Y5c1ZhTWs1aGwwSQ?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T03:54:08Z",
+      "collected_at": "2026-11-19T04:13:30.007874Z"
+    },
     {
       "id": "40f00a6afffa083ec3c55f03",
       "title": "Wall Street cerró mixto tras darse a conocer las minutas de la Fed - El Economista",
@@ -14,6 +41,15 @@
       "category": "México",
       "published_at": "2026-11-19T03:51:58Z",
       "collected_at": "2026-11-19T03:58:21.374907Z"
+    },
+    {
+      "id": "a1df85704efbc103a7babecf",
+      "title": "Peter Thiel’s $85 Million Nvidia Exit Was a Bet the Stock Had Run Far Enough. After Nvidia’s Beat, It Closed Below Every Price He Could Have Sold At",
+      "url": "https://247wallst.com/investing/2026/11/18/peter-thiels-85-million-nvidia-exit-was-a-bet-the-stock-had-run-far-enough-after-nvidias-beat-it-closed-below-every-price-he-could-have-sold-at/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T03:51:09Z",
+      "collected_at": "2026-11-19T04:13:30.007874Z"
     },
     {
       "id": "a4cfcc8eafc04465c02f0ab1",
@@ -32,6 +68,15 @@
       "category": "Mercados",
       "published_at": "2026-11-19T03:49:51Z",
       "collected_at": "2026-11-19T03:58:21.374907Z"
+    },
+    {
+      "id": "d88ff57d001e4229b2feece3",
+      "title": "Anthropic logró la mayor salida a Bolsa - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVNQUzktYkpvNlFZVjRmNGwxYVRwa2FmbEE5c1dkQjlTUW5CT0Z5NlVYV2FfS1Nxd0I4SkhZVU5UUU83X2lLb3ZYbmg1RlhYNDdaY0FXT19GTU40eVdlcHl0ZXRwVEtDUUhmZ3NGSGQyeF8yLXcxTlFtUW9GN1JHemhVVGF5THY1eEdRM0ZJX2J5SEduYTh2cmxHU1TSAaIBQVVfeXFMTnBOUnhEclhBSmlaS0lJVHlnSEpEa1pIc0VFNEswZldKaGFFZS1SbDE5VFZUMFpYUHFCdk5WTnpkWUZ5RHpBODNWMHlWMTRxczd0V084WUdvQkphcWpPaWI3NEdHX0VZclQ1YUp5NG0zdU1yalpibGpDYWUxQV9GOXVDVGFhdk1MdW9FYlhUQTlPX0FlaGpnZDRtbURaRWdKQTB3?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T03:48:23Z",
+      "collected_at": "2026-11-19T04:13:30.007874Z"
     },
     {
       "id": "a46caf4c7e7b4b5fc5847a99",
@@ -212,6 +257,15 @@
       "category": "Estados Unidos",
       "published_at": "2026-11-19T02:10:00Z",
       "collected_at": "2026-11-19T03:50:42.233188Z"
+    },
+    {
+      "id": "4880ac379767e8fc5858786b",
+      "title": "‘Nothing Wrong With NVDA Or AI Trade’: Kenny Polcari Says Fed’s Inflation Concerns Are The Bigger Market Risk - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmk3OExJZE10OUFFYjVVZjBZcF9CMEd0SkV6TEcxZzZUWjdFRUlrcjNKTlFkb1BBREFkMVdVNW4yVFpSYnl0VGFucG1iZjhkUlVEdm9CMTF5LVhjRENpX0RNZm1hRHhmTTJoTjloVktFbl9zdHhpYTdSeXBfTmR0RDBJUnQ1UGp4ZmRLVk5NWlNRX1FGN1FV?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T02:10:00Z",
+      "collected_at": "2026-11-19T04:13:30.007874Z"
     },
     {
       "id": "a444c93b3864fced20a302c2",
@@ -1906,6 +1960,15 @@
       "collected_at": "2026-11-19T03:50:42.233188Z"
     },
     {
+      "id": "382215eed65855251a29b388",
+      "title": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSU5xZ3hxUXIyT2tZR3ZHRi1NaG1TZDd1Q2EtRmwtM0hTT2Z6c1RObk9ldkhIUVlkZGJ6b015d243c2s4TnpXYzVydmlYYnl1WDkwcGViTmw4VDlhTl9yeWVOMjFoVUl1QVZ6NTRLXzgxOHNZMGJLdDRYMWQ5eXNyclg4dHRJOWxMV095SlE1cFRRT3RHX1BZMmdOelA0VWxHMUZVdnI4UzQ4Zlk5RHZkRWI1Wk96SXNjVmF3?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-18T05:53:00Z",
+      "collected_at": "2026-11-19T04:13:30.007874Z"
+    },
+    {
       "id": "454fc3279b2411bff0b1db35",
       "title": "Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkhVeHlSOHlwY3dfOWVqSnVzNmhhcmtGWHk4SkdYQVlXSmxHdmtUVnBDMEpKbG5YQVpSVGJnbERVQUJPSElNbUh3Y3VTcURWQ2MyVlVKenZCRmtDVk9vcVlTSmJGbmdROVF6LUNORzd0UUI0TWo4M2JOSXFfRmlkZV9nYw?oc=5",
@@ -1967,6 +2030,15 @@
       "category": "Mercados",
       "published_at": "2026-11-18T04:35:00Z",
       "collected_at": "2026-11-19T03:50:42.233188Z"
+    },
+    {
+      "id": "434ccab3192cdfda328ff82f",
+      "title": "Australia frees largest LNG exporting state from reservation scheme - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT1UyVkE3WVc0X0hXdm14QmJ6dzJ4WHFuY1Q0S2EzaUp1aHAwRTRjU1NOUU1SUkxTNWt4dFd3WWZwM1hqRDM5MUVQOFFoSzczSUdvMl9CcXppOE9aQTNMTVNqT1lfM1A4ZWlIUGkxRU9heWhhMmVPX1FkUjN5Z3MyRXl6dlRuSXVGRzBGcm9Ob3pLZHVNZEtxdWFjUlE1Ny1QVzFrU1dpd1pxQjNEX2s3RDVRYjk0Ni13R0haUTdkQ216TDkt?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-18T04:32:00Z",
+      "collected_at": "2026-11-19T04:13:30.007874Z"
     },
     {
       "id": "ccbf5ba28f6fa40da7700f0e",
@@ -2632,78 +2704,6 @@
       "source": "El Economista",
       "category": "México",
       "published_at": "2026-11-17T15:09:34Z",
-      "collected_at": "2026-11-19T03:50:42.233188Z"
-    },
-    {
-      "id": "3147aa442fd14f0bafe7300d",
-      "title": "Precio del dólar frente al peso mexicano hoy martes 17 de noviembre de 2026 - Imagen de Veracruz",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHF4X0lWQ2Z5SjV5M1l0NnRqdDBkNGJLcmFlbl9ZRFVuMlBxNzc3UVJGSGpMUUJWU3BWdVRZb1dmazkwakhkRDBNOUY1MThTbEpNVHVqcFJUbmpzdUg3OVZiTF9xM1pjWnZISkVNWUpyMkRRSDVSb3pzT1FLYlNMTFVXN1FFZ1l3Y19oVnpPeTBPUjUydWNvT09lMEdtakhmXzR4MWp0N2U2Y2drZGR3QWVYeFZaUV8tWi1XNUdBaXJUMFBvUlFXZldpY9IB0AFBVV95cUxNcWVyZ2NmVWJxVFdjcmQ1ZHNsTEtzTHJXSlhCajlmTHJ4a3R4Y1RjdUlGalFhMnl0WDd6SEVSYi1VRWdaaktQaUpIcExuRVZ6UGVLQ19qWC1kSW84ODB3bnBmOW5qMkRHYjRMVmpRLXdQbnFpMnVjU3B4NVYxSFA5U2wybVlnTXM2SmRoaUtVMUxpRWFLZ3huQnZxRm1LeTZ3UVA1VzNtbGZvbkNFRTFQRTlFSTlQSG1SVzI0T0NSOHNjc2Q3Xy11TG9RUEFWbnBX?oc=5",
-      "source": "Imagen de Veracruz",
-      "category": "México",
-      "published_at": "2026-11-17T15:05:22Z",
-      "collected_at": "2026-11-19T03:50:42.233188Z"
-    },
-    {
-      "id": "9ac6babe5da59222b5af36c1",
-      "title": "Precio del dólar frente al peso mexicano hoy martes 17 de noviembre de 2026 - Imagen de Veracruz",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWVyZ2NmVWJxVFdjcmQ1ZHNsTEtzTHJXSlhCajlmTHJ4a3R4Y1RjdUlGalFhMnl0WDd6SEVSYi1VRWdaaktQaUpIcExuRVZ6UGVLQ19qWC1kSW84ODB3bnBmOW5qMkRHYjRMVmpRLXdQbnFpMnVjU3B4NVYxSFA5U2wybVlnTXM2SmRoaUtVMUxpRWFLZ3huQnZxRm1LeTZ3UVA1VzNtbGZvbkNFRTFQRTlFSTlQSG1SVzI0T0NSOHNjc2Q3Xy11TG9RUEFWbnBX0gHQAUFVX3lxTE1xZXJnY2ZVYnFUV2NyZDVkc2xMS3NMcldKWEJqOWZMcnhrdHhjVGN1SUZqUWEyeXRYN3pIRVJiLVVFZ1pqS1BpSkhwTG5FVnpQZUtDX2pYLWRJbzg4MHducGY5bmoyREdiNExWalEtd1BucWkydWNTcHg1VjFIUDlTbDJtWWdNczZKZGhpS1UxTGlFYUtneG5CdnFGbUt5NndRUDVXM21sZm9uQ0VFMVBFOUVJOVBIbVJXMjRPQ1I4c2NzZDdfLXVMb1FQQVZucFc?oc=5",
-      "source": "Imagen de Veracruz",
-      "category": "México",
-      "published_at": "2026-11-17T15:05:22Z",
-      "collected_at": "2026-11-19T03:58:21.374907Z"
-    },
-    {
-      "id": "3d419bb5bb7e71516505ce96",
-      "title": "Stocks slip ahead of Nvidia earnings, Home Depot shares slide: AlphaCheck - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWFXWGxkZWd6RlR3MXZWb016RzJ2ZVk2LUlwNXVicUJmVHRibHpGMzBWNldpZWNBWHZrMnFaT0xna3Qxa2FIa25WdWV0OGpDNmQzNVNfYURsOFBQSHI2cUU0WFpneGFHeHg4UHZDRTVoamc1Uks1by13UG1PcVpJeVo4cGRPYm5GZ2FIQUZPVHI2UW1laVVxT2h6LVQzQzBueGJyUGJwZUdPUVJPOWoyYmNIZWhuX1FFd3pOcFpCRXU3Zw?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T14:57:55Z",
-      "collected_at": "2026-11-19T03:50:42.233188Z"
-    },
-    {
-      "id": "bd26cc4491afa0703b050096",
-      "title": "Inflación al alza, industria a la baja: señales mixtas para la economía mexicana - Imagen Radio",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3QzQ1Y1MF9LMWpNZVU1dXBoRk9jRXJvLVp1ZjVQeUhiNHZLcjJ0MEFZSTc0ckdRdjNKV2k4SlJvcm5VS0lNeWw4dTNEdzAzZGZTU24zcEZJZElIM2s5NC02a1JQMU15Q3V3LWZzMExNVlo3RFNreDBRQWtfTEJYSlVGek4xVnBRVWkyU29ZdTZ0SnFmSVRyNU5rZkVsOWFidDhmdXhmd1pvN0nSAbABQVVfeXFMT0pSWlBUc01BdVJsOFlwUEdENk1uYWZZTXZoQmdSRnRUT25BTXlseTFGSmhpektWaFhNNFY3QWlKUXgtYjNnSnNGdzlseHlaekRKVE5SYnJ1aUYwYXpEemx0MnBzWlBJaE1uelByYlBib3E4ZUlWcnlvbE5lVF9OTldFMk5lVkpwbTR3QktKS3IybDNQdnFGRmZENzZPRjZKQ3hNeE5mR3g0Q3B0SEhkMDc?oc=5",
-      "source": "Imagen Radio",
-      "category": "México",
-      "published_at": "2026-11-17T14:45:32Z",
-      "collected_at": "2026-11-19T03:50:42.233188Z"
-    },
-    {
-      "id": "5e353def4e32dccbe691385e",
-      "title": "Fed needs to prepare for bond-market intervention during calm times, Hammack says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUo5ZjhNVXlMSUJ5eUQ1Q05MeXVTM0VEZ2ZEd1E1c1NzS0NlNFdROTZaOS02aE44OXZHWjFuNWR3U0hFMDNZRkp0UlhxN3JCaWpDQ2xIelZ5amJJbDhOQ0pEei03RkFaTFFRbFBFSUFpbWlTYTZCYTcwZmgtRi1LMzM0dzVFNkFubWpkTGlRTmlHbWZ2VTBDaDlWWUVodzlFZk5ndnNRQzhWS3BtdGRUUzJDZmhoLTN5M1E?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-17T14:39:55Z",
-      "collected_at": "2026-11-19T03:50:42.233188Z"
-    },
-    {
-      "id": "3c33ddf2bdf42caee789c7cf",
-      "title": "Dólar HOY 17 de noviembre: ¿Cómo abrió el peso mexicano esta semana y en cuánto está? - La Razón de México",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTm95TDJRNElWRURpNlM0SW52d0p1ZzRLWDVNcTF4UzRsZlVjM1RsX0FGa2dHVDg4SV9Db3F2UFF6WTVpY1pwRUtBRURhOTJNdi1DbnhyeS00YXBWTEM5Z2tuajE1bFk1SDNNNmYxYVkyZnpnMU03MHNZODBicHJXZEFrSnpRTm5rcTR6bG1PNjFnVUdWdTZUSG96aU42TW1ub19WRUIwd29HRmlIMUN4ZjIwS1lNSnBYR2x1bjBZYzdVcUxFRkdJ?oc=5",
-      "source": "La Razón de México",
-      "category": "México",
-      "published_at": "2026-11-17T14:31:52Z",
-      "collected_at": "2026-11-19T03:50:42.233188Z"
-    },
-    {
-      "id": "35340f5f5abadbca1d2edbee",
-      "title": "Forget SCHD: 4 Dividend Stocks Retirees Should Own Instead - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1R3cE1RSFdDbDBqSmxaQ2xsVzZZbnNQY2Ztclp0NXZ2UWhiRWNqWE5MSEtVQ081a2QwNmJjVzh3bE9hdWJHVi1GTE1NcUgxb0lMdlZaSDdSeFFkQU40TDhoMEVQN2lnRWxaZ1VzMmFZakVVcDBrYVB1dHJlRlB1dkt0Ny11NGtIYzhRYkxjSGR2cUhiRlpIYndB?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T14:30:53Z",
-      "collected_at": "2026-11-19T03:50:42.233188Z"
-    },
-    {
-      "id": "c46c3cd572a0b183d5519ddb",
-      "title": "Goldman Sachs is looking for a big year for stocks in 2027 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1dnZHVUWkE1b010OTUwelhqNlNEbmFaZVlQdVBuTTIwRU9ZcHdJb2htYl9SQldVVUN5X05ScXZreGF0QWVVNlI3ZGZhVEZFOVByNWRyMktuaXRMclhnZWVvMmJ0czkzc3owd0c3bkhSY1htdVpiZEpPdjdlSXRqZGpiYWE3LVdzNWZHbXFhWDRXV2FmaUlTSmxoUXBGWnNHNnpOSEU0Rlg3MklnUUE4NWxObEFBUQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T14:21:51Z",
       "collected_at": "2026-11-19T03:50:42.233188Z"
     }
   ]
