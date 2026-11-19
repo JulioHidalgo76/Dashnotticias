@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-11-19T04:16:29.556665Z",
+  "generated_at": "2026-11-19T04:29:35.912399Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 128,
+  "new_articles": 121,
   "errors": [],
   "articles": [
+    {
+      "id": "a99b3f78f0df55ab103be8ab",
+      "title": "Nasdaq, Dow, S&P 500 Futures Climb Ahead Of Anthropic’s Record Debut: SLS, GLD, TTWO, UNH In Focus",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-s-and-p-500-futures-climb-ahead-of-anthropic-s-record-debut-sls-gld-ttwo-unh-in-focus/cNbLDbCR9iW?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T04:15:26Z",
+      "collected_at": "2026-11-19T04:29:35.912399Z"
+    },
     {
       "id": "df616e1e690f8900585676af",
       "title": "Anthropic, Nvidia And The Next AI Trade: Michael Burry Explains What Could Break The Bull Case",
@@ -14,6 +23,15 @@
       "category": "Mercados",
       "published_at": "2026-11-19T04:07:45Z",
       "collected_at": "2026-11-19T04:16:29.556665Z"
+    },
+    {
+      "id": "d8e468106afd22244ce3cc2b",
+      "title": "4 Things the Headlines Missed in Nvidia's First Post-Jensen Earnings Report",
+      "url": "https://www.fool.com/investing/2026/11/18/4-things-the-headlines-missed-in-nvidia-s-first-post-jensen-earnings-report/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T04:07:02Z",
+      "collected_at": "2026-11-19T04:29:35.912399Z"
     },
     {
       "id": "50feadb4ca12ac3587753c23",
@@ -1256,6 +1274,15 @@
       "category": "México",
       "published_at": "2026-11-18T16:46:26Z",
       "collected_at": "2026-11-19T03:58:21.374907Z"
+    },
+    {
+      "id": "a3b78447edf9fcefc76769e1",
+      "title": "El enemigo número uno es la fiscal Ernestina Godoy: Padres de desaparecidos acusan burla en reunión de la FGR - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMk5iLXh2dDBveWpROS1YQ3puQlBaWVRpUUhOdHN1Rm5LV093RHFaOVlPbC01NFYwUUJGekExNFhic0dfakkyY3dIcTBwTmo2TGN4YkVjN2dSM3hEZENCS1RTY1RYS3NZcFNObFhlSlY5UjJRX2lPWEx3NkptdHgtU2Y5VzNScEF1NzljR0JDUGZpTUlqZUNTZVdWRmJrZFFKb0owZUJuQUt0bWtBNV84Wl9PcEpGXzB4RjNKclNPYVpDRHNZOXBTTWJQU1ZyWlU3OS1PaGllb0kzVndYM3FLS2tVaw?oc=5",
+      "source": "TV Azteca",
+      "category": "Política",
+      "published_at": "2026-11-18T16:44:56Z",
+      "collected_at": "2026-11-19T04:29:35.912399Z"
     },
     {
       "id": "ff977f7bc3301721e93595dd",
@@ -2677,33 +2704,6 @@
       "source": "El Economista",
       "category": "Política",
       "published_at": "2026-11-17T17:00:00Z",
-      "collected_at": "2026-11-19T03:50:42.233188Z"
-    },
-    {
-      "id": "35390b80118a00b005aebd69",
-      "title": "Peso empieza la semana con ganancias mientras espera información económica de la Fed y Banxico - Proceso",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT3FieldJUmZCVEhYYVJLMWJuYl9BQ2hZTDhNZU9qcElobUlLMGxTS0VCa0ppMElWOTNGc2FFMUxfUUJ2cGRIVG10RVRObUVjOEo4Vk5PSjFSbHlsdkpYb1lVYkFyakhlcnZkcnV4ZE1Gd0Q4M094YTVxWDRCbTVFRjZ1bVRoOEJVTVNBZFU3NW04MUV0Q21TeXpzeEhBNWhabkgtRm1HemF6WjJHZFNwVWlLQm1RRUlRTU1wcEpSa0xpcnAxTVhhdFpZeWQ2YVJicVJvcVZJSmx6UGFQZzRFN0tJSG54dFFQ?oc=5",
-      "source": "Proceso",
-      "category": "México",
-      "published_at": "2026-11-17T16:50:17Z",
-      "collected_at": "2026-11-19T03:58:21.374907Z"
-    },
-    {
-      "id": "072cd637400ee488d43e03ab",
-      "title": "Gasolina Premium, sin subsidio por primera vez desde junio - Onexpo Nacional",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0JHaW1IYmQ4YzR0Z1JhRGppNnpEOVNObV9NRGdpMlZuN3ZiQkF0QlQ4UEdBOWwwTUFKUUVkZ2taN3N4T0tkN1ZvNlVrTE5vNlA2YTRIa1hhLWc1TlF3MlV0dzNZc2wxUVBqbV9rNmxrVGRYajNMZ0NGYm5IRXB3cGk5Rk1uLUFaRU5RT0sxR2VRT0FLYkhv?oc=5",
-      "source": "Onexpo Nacional",
-      "category": "Política",
-      "published_at": "2026-11-17T16:40:54Z",
-      "collected_at": "2026-11-19T03:50:42.233188Z"
-    },
-    {
-      "id": "3e554453261245fe8f0863c2",
-      "title": "Opinión / El principio de la equidad tributaria - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUWJiVHJxUkFSaERQTDg4OXVnNHJ3d0o1a0pkUlFhSWNPYlFOYkU1Z0x4SW1rUWdKemFmME1MUkkwYlJwOHpsU0UzTzBicXhWY3VKdzdpMTRVN0NveE9DekV3Nl9TbDBhdzdCNzJBZFBnR3NTSHpLemY5WE9MWTIyMDQ5LTRsdy02SDhQSENxS25FdmFkb0tnUy1IbzZiZw?oc=5",
-      "source": "El Sol de México",
-      "category": "Política",
-      "published_at": "2026-11-17T16:37:00Z",
       "collected_at": "2026-11-19T03:50:42.233188Z"
     }
   ]
